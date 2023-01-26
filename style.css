@@ -1,0 +1,41 @@
+.heading{
+    width:100%;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.heading h3{
+    display: inline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ .heading button{
+    float: right;
+    border: 1px solid white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#start{
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#status{
+    background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+canvas{
+    border-radius: 16px;
+    border: double;
+}
+
+h4{
+    background-color: antiquewhite;
+    line-height: 2;
+    margin: 0px;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
